@@ -95,8 +95,6 @@ The system uses standard emissions factors to estimate carbon impact:
 - Regional emissions factors based on user location
 - Mobile app interface
 
-## License
-[MIT License]
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
